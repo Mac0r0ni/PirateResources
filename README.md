@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Pirate Resources
 
 You can use the [editor on GitHub](https://github.com/Mac0r0ni/didactic-pancake/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
